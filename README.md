@@ -1,6 +1,9 @@
 # CODSOFT
-Consists of 3 tasks done for the internship at CodSoft
+Consists of 3 tasks during my internship at CodSoft.
 
 1. Titanic Survival Prediction
-2. Iris Flower Classification
-3. Sales Prediction
+        A model predicting the survival rate of Titanic passengers.
+3. Iris Flower Classification
+        This project utilizes machine learning to distinguish between three species of Iris flowers based on their sepal and petal characteristics.
+5. Sales Prediction
+        Employed data analysis and machine learning to forecast future sales based on historical data and relevant factors.
